@@ -1,3 +1,5 @@
-# angular-p4ufwm
+# angular-Update
+***
+Environment for Angular module tests
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-p4ufwm)
+
